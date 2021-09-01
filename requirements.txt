@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######`
+pickle5
+numpy
+pandas
+pytest-warnings
+sklearn
+subprocess.run 
